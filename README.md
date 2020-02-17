@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Sarah-Beth Amos
 
-You can use the [editor on GitHub](https://github.com/sbtaamos/sbtaamos.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I hold a DPhil (PhD) in Computational Biophysics from Oxford, and I am an expert in using computational approaches to solve complex problems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Check out my [LinkedIn](https://www.linkedin.com/in/sbtaamos/) for updates.
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I specialised in Markov State models during my DPhil and branched out into Bayesian statistics and probabilistic programming.
 
-```markdown
-Syntax highlighted code block
+I was featured on the 2019 Makers/Computer Weekly [Women in Software Power List](https://www.computerweekly.com/news/252462987/Winners-of-Makers-Women-in-Software-Powerlist-announced).
 
-# Header 1
-## Header 2
-### Header 3
+When I'm not doing maths, you can find me playing the piano, on a hike, or [blind wine tasting](https://www.vice.com/en_uk/article/zmjqp5/blind-wine-tasting-competition-oxbridge?fbclid=IwAR1-4Xs8tBvVC4fo6xXG6XZ1reZPn7IGEJYFdcW_gS-NvO_XsWsxDYD5CXQ).
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sbtaamos/sbtaamos.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
