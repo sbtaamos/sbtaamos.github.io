@@ -1,6 +1,6 @@
 ## Sarah-Beth Amos
 
-I hold a DPhil (PhD) in Computational Biophysics from Oxford, and I am an expert in using computational approaches to solve complex problems.
+I am a quantitative financial analyst at a tier-1 investment bank. I hold a DPhil (PhD) in Computational Biophysics from Oxford, and I am an expert in using computational approaches to solve complex problems.
 
 Check out my [LinkedIn](https://www.linkedin.com/in/sbtaamos/) for updates.
 
